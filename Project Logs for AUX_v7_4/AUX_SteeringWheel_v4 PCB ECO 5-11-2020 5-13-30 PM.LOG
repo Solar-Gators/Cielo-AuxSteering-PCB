@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=Throttle_in Pin=1-26
+Change Class Name : Old Net Name=AUX_SteeringWheel_v3 New Net Name=AUX_SteeringWheel_v4
