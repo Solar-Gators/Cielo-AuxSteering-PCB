@@ -37,6 +37,11 @@ IncludeDesignInRelease=0
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
 DocumentPath=AUX_SteeringWheel_v4.SchDoc
 AnnotationEnabled=1
@@ -123,7 +128,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\AUX_v7_3\AUX_v7_3.OutJob
+DocumentPath=..\..\..\..\..\..\..\Downloads\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,95 +144,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\AUX_SteeringWheel_v3.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\AUX_v7_3\Project Outputs for AUX_v7_3\Design Rule Check - AUX_SteeringWheel_v3.html
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for AUX_v7_4\Design Rule Check - AUX_SteeringWheel_v4.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Job1.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Job1.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Job1.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
