@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:16:33 PM On 9/28/2020
+
+Output: Export PARASOLID
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [AUX_SteeringWheel_v4.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 7:16:54 PM On 9/28/2020
