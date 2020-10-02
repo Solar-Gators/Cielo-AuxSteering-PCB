@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: AUX_SteeringWheel_v4.PcbDoc   9/28/2020  6:52:25 PM
+NCDrill File Report For: AUX_SteeringWheel_v4.PcbDoc   10/2/2020  5:54:17 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII RoundHoles File : AUX_SteeringWheel_v4.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.2mm)                                              Round             6         PTH        0.00inch (0.00mm)
-T2      8mil (0.203mm)                                            Round             44        PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             50        PTH        0.00inch (0.00mm)
 T3      10mil (0.254mm)                                           Round             1         PTH        0.00inch (0.00mm)
 T4      33mil (0.85mm)                                            Round             10        PTH        0.00inch (0.00mm)
 T5      35mil (0.9mm)                                             Round             39        PTH        0.00inch (0.00mm)
@@ -18,6 +18,6 @@ T8      118mil (2.997mm)                                          Round         
 T9      136mil (3.454mm)                                          Round             4         PTH        0.00inch (0.00mm)
 T10     100mil (2.54mm)                                           Round             4         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              169
+Totals                                                                              175
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,10 @@
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [AUX_v7_4.PrjPcb]
+   Generated File[Electrical Rules Check.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:52:06 PM On 10/2/2020

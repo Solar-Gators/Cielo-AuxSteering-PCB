@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Cruise_out Pin=1-9
+Added Pin To Net: NetName=Cruise_out Pin=1-8
+Added Pin To Net: NetName=Cruise_in Pin=1-9
+Added Member To Class: ClassName=AUX_SteeringWheel_v4 Member=Component C1 Cap Semi
+Added Room: Name=AUX_SteeringWheel_v4
