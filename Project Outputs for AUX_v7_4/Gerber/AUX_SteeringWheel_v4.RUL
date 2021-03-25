@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\morge\Documents\Morgen\Morgen's File Cabinet\College\Solar Gators\Auxiliary\SteeringWheel\AUX_v7_4\AUX_SteeringWheel_v4.PcbDoc
+RuleKind=Clearance|RuleName=Transciever Clearance|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=General Clearance|Scope=Board|Minimum=7.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=STM Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

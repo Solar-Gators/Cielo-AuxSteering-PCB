@@ -161,91 +161,158 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADHCKMPR
 
+[Document8]
+DocumentPath=Job_Check_PCBs.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.DRR
+DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.APB
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.EXTREP
+DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.APT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GBL
+DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GBS
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GD1
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GKO
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM1
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM13
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM15
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GPB
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GPT
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTL
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTO
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTP
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTS
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.LDP
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.REP
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.RUL
+DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for AUX_v7_4\Mechanical\AUX_SteeringWheel_v4.step
+DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.TXT
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for AUX_v7_4\Validation\Design Rules Check.html
+DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs for AUX_v7_4\Mechanical\AUX_SteeringWheel_v4.step
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AUX_v7_4\Validation\Design Rules Check.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for AUX_v7_4\Validation\Electrical Rules Check.html
 DItemRevisionGUID=
 
@@ -433,7 +500,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2370DW series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -537,7 +604,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -570,7 +637,7 @@ OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.63|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.22|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration7_Name1=ForceUpdateSettings
 Configuration7_Item1=False
 Configuration7_Name2=OutputConfigurationParameter1
@@ -642,7 +709,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16908289~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1,16908301~1,16908303~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16908289~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
