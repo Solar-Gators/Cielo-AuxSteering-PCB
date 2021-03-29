@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=D/C Pin=1-21
-Added Pin To Net: NetName=D/C Pin=U2-8
-Added Net: Name=D/C
-Added Pin To Net: NetName=RST Pin=1-22
-Added Pin To Net: NetName=RST Pin=U2-7
-Added Net: Name=RST

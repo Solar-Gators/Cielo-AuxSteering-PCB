@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=CANL Pin=U1-6
-Removed Pin From Net: NetName=CANH Pin=U1-7
-Added Pin To Net: NetName=CAN_N Pin=U1-6
-Added Net: Name=CAN_N
-Added Pin To Net: NetName=CAN_P Pin=U1-7
-Added Net: Name=CAN_P
-Added Differential Pair: Name=CAN

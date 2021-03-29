@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=3V3 Pin=U2-1
-Change Net Name : Old Net Name=CS New Net Name=LCD_CS
-Change Net Name : Old Net Name=D/C New Net Name=LCD_D/C
-Change Net Name : Old Net Name=MISO New Net Name=LCD_MISO
-Change Net Name : Old Net Name=MOSI New Net Name=LCD_MOSI
-Change Net Name : Old Net Name=RST New Net Name=LCD_RST
-Change Net Name : Old Net Name=SCK New Net Name=LCD_SCK

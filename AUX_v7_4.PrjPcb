@@ -77,57 +77,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KVQVQABI
 
 [Document3]
-DocumentPath=Project Outputs for AUX_v7_4\Docs\PCB Prints.PDF
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=Project Outputs for AUX_v7_4\Docs\PDF3D.PDF
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=Project Outputs for AUX_v7_4\Docs\Schematic Prints.PDF
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=SteeringWheelParts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -144,7 +93,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NHTVBYCV
 
-[Document7]
+[Document4]
 DocumentPath=SteeringWheelParts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADHCKMPR
 
-[Document8]
+[Document5]
 DocumentPath=Job_Check_PCBs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -178,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document6]
 DocumentPath=Project Outputs for AUX_v7_4\Gerber\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document7]
 DocumentPath=Project Outputs for AUX_v7_4\Gerber\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,106 +162,90 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.APB
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.APT
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.DRR
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.EXTREP
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GBL
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GBS
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GD1
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GKO
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM1
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM13
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GM15
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GPB
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GPT
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTL
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTO
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTP
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.GTS
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.LDP
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for AUX_v7_4\Gerber\AUX_SteeringWheel_v4.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
 DocumentPath=Project Outputs for AUX_v7_4\Mechanical\AUX_SteeringWheel_v4.step
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.TXT
+[GeneratedDocument20]
+DocumentPath=Project Outputs for AUX_v7_4\Fabrication\AUX_SteeringWheel_v4.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for AUX_v7_4\NC Drill\AUX_SteeringWheel_v4.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for AUX_v7_4\Validation\Design Rules Check.html
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for AUX_v7_4\Validation\Electrical Rules Check.html
 DItemRevisionGUID=
 
@@ -500,7 +433,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-L2370DW series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
