@@ -128,7 +128,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\..\..\..\..\Downloads\AUX_SteeringWheel_v4.SchDoc
+DocumentPath=AUX_SteeringWheel_v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -145,7 +145,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IWLHSXTL
 
 [Document7]
-DocumentPath=..\..\..\..\..\..\..\..\Downloads\AUX_SteeringWheel_v4.PcbDoc
+DocumentPath=AUX_SteeringWheel_v5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
