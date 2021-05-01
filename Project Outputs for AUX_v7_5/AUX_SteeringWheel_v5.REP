@@ -2,85 +2,10 @@
 FileName = AUX_SteeringWheel_v5.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : AUX_SteeringWheel_v5.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D18
-    D19
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : AUX_SteeringWheel_v5.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D15
-    D21
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : AUX_SteeringWheel_v5.GBS
 
     Adding Layer      : Bottom Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
 
     Adding Layer      : Bottom Layer
 
@@ -88,9 +13,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D10
-    D15
-    D21
+    D37
     D38
     D39
     D40
@@ -103,8 +26,6 @@ Used DCodes :
     D47
     D48
     D49
-    D50
-    D51
 *************************************************************
 
 *************************************************************
@@ -113,21 +34,13 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D15
-    D21
+    D29
     D30
     D31
     D32
@@ -148,27 +61,6 @@ Used DCodes :
     D47
     D48
     D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : AUX_SteeringWheel_v5.GM13
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D15
-    D21
 *************************************************************
 
 *************************************************************
@@ -177,20 +69,12 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D15
     D21
     D22
     D23
@@ -199,7 +83,6 @@ Used DCodes :
     D26
     D27
     D28
-    D29
 *************************************************************
 
 *************************************************************
@@ -207,12 +90,6 @@ Generating : Top Overlay
       File : AUX_SteeringWheel_v5.GTO
 
     Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
@@ -227,164 +104,6 @@ Used DCodes :
     D18
     D19
     D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : AUX_SteeringWheel_v5.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D18
-    D19
-    D21
-    D52
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : AUX_SteeringWheel_v5.GM15
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D15
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : AUX_SteeringWheel_v5.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D15
-    D21
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : AUX_SteeringWheel_v5.GD1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D10
-    D15
-    D21
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : AUX_SteeringWheel_v5.GG1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D10
-    D15
-    D21
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : AUX_SteeringWheel_v5.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D21
 *************************************************************
 
 *************************************************************
@@ -395,16 +114,8 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D10
-    D15
     D21
     D22
     D23
@@ -413,7 +124,71 @@ Used DCodes :
     D26
     D27
     D28
-    D29
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : AUX_SteeringWheel_v5.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : AUX_SteeringWheel_v5.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AUX_SteeringWheel_v5.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+    D50
+    D54
+    D55
     D56
     D57
     D58
@@ -425,7 +200,72 @@ Used DCodes :
     D64
     D65
     D66
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : AUX_SteeringWheel_v5.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : AUX_SteeringWheel_v5.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
     D67
     D68
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : AUX_SteeringWheel_v5.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
 *************************************************************
 
