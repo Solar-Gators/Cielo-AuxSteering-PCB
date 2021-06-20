@@ -144,8 +144,76 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=FabOutputs.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\AUX_SteeringWheel_v5.GBP
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\TopSolderMask.GTS
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\TopPasteMask.GTP
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.DRL
+DocumentPath=Project Outputs for AUX_v7_5\NC Drill\AUX_SteeringWheel_v5.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -153,78 +221,42 @@ DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.EXTREP
+DocumentPath=Project Outputs for AUX_v7_5\NC Drill\AUX_SteeringWheel_v5.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GBL
+DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GBS
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\AUX_SteeringWheel_v5.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
 DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AUX_v7_5\NC Drill\AUX_SteeringWheel_v5.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
 DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\AUX_SteeringWheel_v5.REP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
 DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AUX_v7_5\Gerber\AUX_SteeringWheel_v5.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=Project Outputs for AUX_v7_5\AUX_SteeringWheel_v5.TXT
 DItemRevisionGUID=
 
