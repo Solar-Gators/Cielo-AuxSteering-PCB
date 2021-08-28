@@ -60,6 +60,40 @@ GenerateClassCluster=0
 DocumentUniqueId=NHTVBYCV
 
 [Document2]
+DocumentPath=..\..\..\OneDrive - University of Florida\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document3]
+DocumentPath=..\..\..\OneDrive - University of Florida\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document4]
 DocumentPath=SteeringWheelParts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -76,7 +110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADHCKMPR
 
-[Document3]
+[Document5]
 DocumentPath=Job_Check_PCBs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -93,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document6]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document7]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -127,7 +161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document8]
 DocumentPath=AUX_SteeringWheel_v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -144,7 +178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWLHSXTL
 
-[Document7]
+[Document9]
 DocumentPath=AUX_SteeringWheel_v5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -160,26 +194,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVQVQABI
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for AUX_v7_4\AUX_SteeringWheel_v4.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -365,7 +379,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Hewlett-Packard HP LaserJet MFP M426fdw
+TargetPrinter=EPSON WF-2650 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
