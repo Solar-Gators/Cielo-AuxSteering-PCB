@@ -1,0 +1,33 @@
+Added Component: Designator=LCD(HY28B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-2
+Added Pin To Net: NetName=GND Pin=LCD-3
+Added Pin To Net: NetName=GND Pin=LCD-4
+Added Pin To Net: NetName=GND Pin=LCD-5
+Added Pin To Net: NetName=GND Pin=LCD-6
+Added Pin To Net: NetName=GND Pin=LCD-7
+Added Pin To Net: NetName=GND Pin=LCD-8
+Added Pin To Net: NetName=GND Pin=LCD-9
+Added Pin To Net: NetName=GND Pin=LCD-10
+Added Pin To Net: NetName=LCD_CS Pin=LCD-11
+Added Pin To Net: NetName=LCD_SCK Pin=LCD-13
+Added Pin To Net: NetName=LCD_RST Pin=LCD-15
+Added Pin To Net: NetName=LCD_SDO Pin=LCD-16
+Added Pin To Net: NetName=LCD_SDI Pin=LCD-17
+Added Pin To Net: NetName=GND Pin=LCD-19
+Added Pin To Net: NetName=5V Pin=LCD-21
+Added Pin To Net: NetName=GND Pin=LCD-22
+Added Pin To Net: NetName=3V3 Pin=LCD-29
+Added Pin To Net: NetName=GND Pin=LCD-31
+Added Pin To Net: NetName=GND Pin=LCD-32
+Added Pin To Net: NetName=GND Pin=LCD-33
+Added Pin To Net: NetName=GND Pin=LCD-34
+Added Pin To Net: NetName=GND Pin=LCD-35
+Added Pin To Net: NetName=GND Pin=LCD-36
+Added Pin To Net: NetName=GND Pin=LCD-37
+Added Pin To Net: NetName=GND Pin=LCD-38
+Added Pin To Net: NetName=GND Pin=LCD-39
+Added Pin To Net: NetName=3V3 Pin=LCD-40
+Added Member To Class: ClassName=Sheet4 Member=Component LCD HY28B
+Added Room: Name=Sheet4

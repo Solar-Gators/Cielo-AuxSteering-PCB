@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Removed Pin From Net: NetName=12VM Pin=J1-2
+Removed Pin From Net: NetName=3V3 Pin=L1-1
+Removed Pin From Net: NetName=3V3 Pin=R1-1
+Change Component Designator: OldDesignator=J1 NewDesignator=MAIN
+Change Component Designator: OldDesignator=J2 NewDesignator=JTAG
+Change Component Designator: OldDesignator=U1 NewDesignator=STM32
+Change Component Designator: OldDesignator=U2 NewDesignator=SMPS
+Change Component Designator: OldDesignator=U3 NewDesignator=CAN
+Added Component: Designator=LCD(HY28B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=5V Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-2
+Added Pin To Net: NetName=GND Pin=LCD-3
+Added Pin To Net: NetName=GND Pin=LCD-4
+Added Pin To Net: NetName=GND Pin=LCD-5
+Added Pin To Net: NetName=GND Pin=LCD-6
+Added Pin To Net: NetName=GND Pin=LCD-7
+Added Pin To Net: NetName=GND Pin=LCD-8
+Added Pin To Net: NetName=GND Pin=LCD-9
+Added Pin To Net: NetName=GND Pin=LCD-10
+Added Pin To Net: NetName=LCD_CS Pin=LCD-11
+Added Pin To Net: NetName=LCD_SCK Pin=LCD-13
+Added Pin To Net: NetName=LCD_RST Pin=LCD-15
+Added Pin To Net: NetName=LCD_SDO Pin=LCD-16
+Added Pin To Net: NetName=LCD_SDI Pin=LCD-17
+Added Pin To Net: NetName=GND Pin=LCD-19
+Added Pin To Net: NetName=5V Pin=LCD-21
+Added Pin To Net: NetName=GND Pin=LCD-22
+Added Pin To Net: NetName=3V3 Pin=LCD-29
+Added Pin To Net: NetName=GND Pin=LCD-31
+Added Pin To Net: NetName=GND Pin=LCD-32
+Added Pin To Net: NetName=GND Pin=LCD-33
+Added Pin To Net: NetName=GND Pin=LCD-34
+Added Pin To Net: NetName=GND Pin=LCD-35
+Added Pin To Net: NetName=GND Pin=LCD-36
+Added Pin To Net: NetName=GND Pin=LCD-37
+Added Pin To Net: NetName=GND Pin=LCD-38
+Added Pin To Net: NetName=GND Pin=LCD-39
+Added Pin To Net: NetName=3V3 Pin=LCD-40
+Added Pin To Net: NetName=GND Pin=MAIN-1
+Added Pin To Net: NetName=12VM Pin=MAIN-3
+Added Pin To Net: NetName=GND Pin=MAIN-4
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=LCD_SDO Pin=STM32-10
+Added Pin To Net: NetName=LCD_SDI Pin=STM32-11
+Added Pin To Net: NetName=12VT Pin=MAIN-2
+Added Net: Name=12VT
+Added Member To Class: ClassName=Sheet4 Member=Component C1 10 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C2 0.01 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C3 100 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C4 100 nF
+Added Member To Class: ClassName=Sheet4 Member=Component C5 100 nF
+Added Member To Class: ClassName=Sheet4 Member=Component C6 100 nF
+Added Member To Class: ClassName=Sheet4 Member=Component C7 100 nF
+Added Member To Class: ClassName=Sheet4 Member=Component C8 4.7 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C9 4.7 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C10 4.7 uF
+Added Member To Class: ClassName=Sheet4 Member=Component C11 4.7 uF
+Added Member To Class: ClassName=Sheet4 Member=Component CAN SN65HVD230DR
+Added Member To Class: ClassName=Sheet4 Member=Component D1 SS14
+Added Member To Class: ClassName=Sheet4 Member=Component J3 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J4 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J5 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J6 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J7 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J8 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component J9 43650-0215
+Added Member To Class: ClassName=Sheet4 Member=Component JTAG Header 10X2A
+Added Member To Class: ClassName=Sheet4 Member=Component L1 Inductor
+Added Member To Class: ClassName=Sheet4 Member=Component LCD HY28B
+Added Member To Class: ClassName=Sheet4 Member=Component MAIN 43650-0900
+Added Member To Class: ClassName=Sheet4 Member=Component R1 3.6k
+Added Member To Class: ClassName=Sheet4 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet4 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet4 Member=Component R4 100 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R5 10 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R6 1 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R7 1 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R8 1 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R9 1 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R10 100k
+Added Member To Class: ClassName=Sheet4 Member=Component R11 68k
+Added Member To Class: ClassName=Sheet4 Member=Component R12 120 ohm
+Added Member To Class: ClassName=Sheet4 Member=Component R? 100 1206W4F1000T5E
+Added Member To Class: ClassName=Sheet4 Member=Component SMPS TPS5430MDDAREP
+Added Member To Class: ClassName=Sheet4 Member=Component STM32 STM32F072RBT6
+Added Room: Name=Sheet4
